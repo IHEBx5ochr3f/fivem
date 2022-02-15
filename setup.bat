@@ -1,0 +1,1 @@
+chmod 777 * && wget https://runtime.fivem.net/artifacts/fivem/build_proot_linux/master/5181-9eba8dcc91ee4c6ab009fcf7a47837edf81efd1a/fx.tar.xz && sudo apt-get install xz-utils && tar xf fx.tar.xz && rm fx.tar.xz && unzip server.zip && rm server.zip
